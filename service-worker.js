@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/eidoclock-test/precache-manifest.120e10b627661584cfadd6b64feda0d8.js"
+  "/eidoclock-test/precache-manifest.c98e5da1df8d9e2abaab3d6f519df9b1.js"
 );
 
 workbox.clientsClaim();
