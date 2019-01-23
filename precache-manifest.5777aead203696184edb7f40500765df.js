@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "65d0db68ad2e81f08ee0",
+    "revision": "d248a8e35095f2443663",
     "url": "/eidoclock-test/static/css/main.955ed790.chunk.css"
   },
   {
-    "revision": "65d0db68ad2e81f08ee0",
-    "url": "/eidoclock-test/static/js/main.65d0db68.chunk.js"
+    "revision": "d248a8e35095f2443663",
+    "url": "/eidoclock-test/static/js/main.d248a8e3.chunk.js"
   },
   {
     "revision": "d2cf9a2733a3d48b32b0",
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/eidoclock-test/static/media/inconsolata.29b00ebc.ttf"
   },
   {
-    "revision": "f97b8126fff7a7b2f14c00f4d637ddad",
+    "revision": "ba3e0d382f614c738521ce9c2c968424",
     "url": "/eidoclock-test/index.html"
   }
 ];
