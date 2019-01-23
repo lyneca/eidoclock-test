@@ -1,14 +1,14 @@
 {
   "main.css": "/eidoclock-test/static/css/main.955ed790.chunk.css",
-  "main.js": "/eidoclock-test/static/js/main.203c6e3c.chunk.js",
-  "main.js.map": "/eidoclock-test/static/js/main.203c6e3c.chunk.js.map",
-  "static/js/1.1af90f64.chunk.js": "/eidoclock-test/static/js/1.1af90f64.chunk.js",
-  "static/js/1.1af90f64.chunk.js.map": "/eidoclock-test/static/js/1.1af90f64.chunk.js.map",
+  "main.js": "/eidoclock-test/static/js/main.dcd937b0.chunk.js",
+  "main.js.map": "/eidoclock-test/static/js/main.dcd937b0.chunk.js.map",
+  "static/js/1.64139544.chunk.js": "/eidoclock-test/static/js/1.64139544.chunk.js",
+  "static/js/1.64139544.chunk.js.map": "/eidoclock-test/static/js/1.64139544.chunk.js.map",
   "runtime~main.js": "/eidoclock-test/static/js/runtime~main.10542f33.js",
   "runtime~main.js.map": "/eidoclock-test/static/js/runtime~main.10542f33.js.map",
   "static/media/index.css": "/eidoclock-test/static/media/inconsolata.29b00ebc.ttf",
   "static/css/main.955ed790.chunk.css.map": "/eidoclock-test/static/css/main.955ed790.chunk.css.map",
   "index.html": "/eidoclock-test/index.html",
-  "precache-manifest.a3a48354c0095b3fd57d69a5d009c366.js": "/eidoclock-test/precache-manifest.a3a48354c0095b3fd57d69a5d009c366.js",
+  "precache-manifest.f0d31bc6f262fcb5f97be1bfb578aca1.js": "/eidoclock-test/precache-manifest.f0d31bc6f262fcb5f97be1bfb578aca1.js",
   "service-worker.js": "/eidoclock-test/service-worker.js"
 }
